@@ -15,3 +15,5 @@ note: They have awesome datasets ! so feel free to choose whatever dataset you w
      
 ## Link to the Tableau dashboard :
 https://public.tableau.com/app/profile/debosmita.chatterjee/viz/Data-Cleaning-EDA-using-SQL/Dashboard1
+
+### Link to project article : https://medium.com/@Armonia1999/data-analysis-project-using-sql-to-clean-and-analyse-data-64a24e84b730
